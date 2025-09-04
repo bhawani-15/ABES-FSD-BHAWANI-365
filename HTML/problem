@@ -1,0 +1,8 @@
+name
+email
+password & confirm password
+gender
+hobbies(checkboxes)
+course selection(dropdown)
+address
+submit and reset buttons
